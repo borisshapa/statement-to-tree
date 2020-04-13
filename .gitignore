@@ -1,0 +1,13 @@
+/.stack-work/
+/.idea/
+/.out/
+/test/
+/ChangeLog.md
+/LICENSE
+/package.yaml
+/README.md
+/Setup.hs
+/stack.yaml
+/stack.yaml.lock
+/statement-parser.cabal
+/statement-parser.iml
