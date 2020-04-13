@@ -1,6 +1,6 @@
 /.stack-work/
 /.idea/
-/.out/
+/out/
 /test/
 /ChangeLog.md
 /LICENSE
